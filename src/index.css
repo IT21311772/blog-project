@@ -67,3 +67,7 @@
     font-weight: bold;
     text-align: center;
 }
+
+.blog-preview a {
+    text-decoration: none;
+}

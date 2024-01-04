@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   // Use of States
@@ -14,8 +15,8 @@ function Navbar() {
       <nav className="navbar">
         <h1 style={{color}} onClick={changeColor}>The Dancing Kitchen</h1>
         <div className="links">
-            <a href="/">Home</a>
-            <a href="/create">New Blog</a>
+            <Link to="/">Home</Link>
+            <Link to="/create">New Blog</Link>
         </div>
       </nav>
     </div>
