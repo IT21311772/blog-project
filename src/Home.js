@@ -9,7 +9,7 @@ function Home() {
     <div className='home'>
       {error && <div className='error'>{error}</div>}
       {isPending && <div className='loading'>Loading ....</div>}
-      {data && <BlogList data={data} title="Recipes by The Dancing Kitchen" />}
+      {data && <BlogList data={data} title="Food Gallery" />}
       {/* <BlogList blogs={blogs.filter((blog) => blog.title === 'Chicken Biriyani')} title="Rice and Biriyani" /> */}
     </div>
   )

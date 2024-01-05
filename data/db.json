@@ -1,22 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "Chicken Biriyani",
-            "body": "Chicken biryani is a beloved and iconic dish in South Asian cuisine, renowned for its aromatic blend of fragrant spices, tender chicken, and flavorful basmati rice. This culinary masterpiece is a symphony of taste and texture, featuring succulent pieces of chicken marinated in a rich blend of yogurt and spices, creating a vibrant and savory flavor profile. The biryani is layered and cooked to perfection, allowing the rice to absorb the essence of the seasoned chicken and aromatic spices. Commonly infused with ingredients such as saffron, cloves, cardamom, and cinnamon, the biryani exudes a tantalizing aroma that captivates the senses. Garnished with fresh coriander, mint, and fried onions, chicken biryani is a feast for both the eyes and the palate. Whether enjoyed during festive celebrations, family gatherings, or as a special meal, this classic dish holds a special place in the hearts of food enthusiasts, showcasing the rich culinary heritage and diverse flavors of the region.",
-            "author": "The Dancing Kitchen",
-            "id": 1
-        },
-        {
-            "title": "Baked Chicken Wings",
-            "body": "Baked chicken wings are a delectable twist on the classic favorite, providing a healthier and equally flavorful alternative to their fried counterparts. These succulent wings are marinated or coated in a variety of tantalizing sauces, from zesty buffalo to sweet and tangy barbecue, ensuring a burst of flavor in every bite. What sets baked chicken wings apart is the cooking method, which involves roasting them in the oven until they achieve a crispy, golden-brown exterior without the need for excessive oil. The baking process allows the wings to retain their natural juices while developing a delightful crunch, creating a perfect balance between tender meat and satisfying crispiness. The result is a guilt-free indulgence that doesn't compromise on taste, making baked chicken wings a popular choice for those looking to savor this classic finger-food without the excess grease. Whether served as an appetizer during gatherings or enjoyed as a casual snack, baked chicken wings are a crowd-pleasing culinary delight.",
-            "author": "The Dancing Kitchen",
-            "id": 2
-        },
-        {
-            "title": "Chicken Pizza",
-            "body": "Chicken pizza is a delectable culinary creation that combines the savory goodness of tender chicken with the cheesy delight of pizza. This flavorful dish typically features succulent pieces of seasoned chicken as a key topping, adding a protein-packed punch to every bite. The chicken is often paired with a harmonious blend of melted mozzarella and other cheeses, creating a gooey and indulgent texture. Complemented by a tomato-based sauce and a medley of vibrant vegetables, such as bell peppers, onions, and mushrooms, chicken pizza offers a delightful symphony of tastes and textures. Whether grilled, roasted, or marinated, the chicken brings its unique flavor profile to the ensemble, elevating the pizza experience to a whole new level. Whether enjoyed as a classic Margherita with chicken or as part of a more adventurous combination, chicken pizza continues to be a favorite among pizza enthusiasts, offering a satisfying and mouthwatering alternative to traditional pizza varieties.",
-            "author": "The Dancing Kitchen",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Chicken Biriyani",
+      "body": "Chicken biryani is a beloved and iconic dish in South Asian cuisine, renowned for its aromatic blend of fragrant spices, tender chicken, and flavorful basmati rice. This culinary masterpiece is a symphony of taste and texture, featuring succulent pieces of chicken marinated in a rich blend of yogurt and spices, creating a vibrant and savory flavor profile. The biryani is layered and cooked to perfection, allowing the rice to absorb the essence of the seasoned chicken and aromatic spices. Commonly infused with ingredients such as saffron, cloves, cardamom, and cinnamon, the biryani exudes a tantalizing aroma that captivates the senses. Garnished with fresh coriander, mint, and fried onions, chicken biryani is a feast for both the eyes and the palate. Whether enjoyed during festive celebrations, family gatherings, or as a special meal, this classic dish holds a special place in the hearts of food enthusiasts, showcasing the rich culinary heritage and diverse flavors of the region.",
+      "author": "The Dancing Kitchen",
+      "id": 1
+    },
+    {
+      "title": "Baked Chicken Wings",
+      "body": "Baked chicken wings are a delectable twist on the classic favorite, providing a healthier and equally flavorful alternative to their fried counterparts. These succulent wings are marinated or coated in a variety of tantalizing sauces, from zesty buffalo to sweet and tangy barbecue, ensuring a burst of flavor in every bite. What sets baked chicken wings apart is the cooking method, which involves roasting them in the oven until they achieve a crispy, golden-brown exterior without the need for excessive oil. The baking process allows the wings to retain their natural juices while developing a delightful crunch, creating a perfect balance between tender meat and satisfying crispiness. The result is a guilt-free indulgence that doesn't compromise on taste, making baked chicken wings a popular choice for those looking to savor this classic finger-food without the excess grease. Whether served as an appetizer during gatherings or enjoyed as a casual snack, baked chicken wings are a crowd-pleasing culinary delight.",
+      "author": "The Dancing Kitchen",
+      "id": 2
+    },
+    {
+      "title": "Chicken Pizza",
+      "body": "Chicken pizza is a delectable culinary creation that combines the savory goodness of tender chicken with the cheesy delight of pizza. This flavorful dish typically features succulent pieces of seasoned chicken as a key topping, adding a protein-packed punch to every bite. The chicken is often paired with a harmonious blend of melted mozzarella and other cheeses, creating a gooey and indulgent texture. Complemented by a tomato-based sauce and a medley of vibrant vegetables, such as bell peppers, onions, and mushrooms, chicken pizza offers a delightful symphony of tastes and textures. Whether grilled, roasted, or marinated, the chicken brings its unique flavor profile to the ensemble, elevating the pizza experience to a whole new level. Whether enjoyed as a classic Margherita with chicken or as part of a more adventurous combination, chicken pizza continues to be a favorite among pizza enthusiasts, offering a satisfying and mouthwatering alternative to traditional pizza varieties.",
+      "author": "The Dancing Kitchen",
+      "id": 3
+    },
+    {
+      "title": "Chicken Fried Rice",
+      "body": "Chicken fried rice is a delicious and popular dish that combines savory flavors and diverse textures in a single satisfying meal. This Asian-inspired dish typically consists of cooked rice stir-fried with diced chicken, vegetables like carrots and peas, and scrambled eggs. The ingredients are seasoned with soy sauce and other flavorful spices, creating a harmonious blend of umami taste. The chicken adds a protein-rich element, while the vegetables contribute both color and nutritional value. The scrambled eggs bring a light and fluffy texture to the dish. The cooking process involves high heat and quick stir-frying, ensuring that the ingredients maintain their distinct flavors and remain tender yet slightly crispy. Chicken fried rice is not only a delightful way to enjoy the combination of protein, carbohydrates, and vegetables but also provides a versatile canvas for personalization with additional ingredients or spice levels to suit individual preferences. Whether enjoyed as a standalone dish or paired with other Asian favorites, chicken fried rice remains a beloved and comforting choice for food enthusiasts around the world.",
+      "author": "Aeshini's Kitchen",
+      "id": 4
+    }
+  ]
 }
